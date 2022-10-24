@@ -10,7 +10,7 @@ namespace HelloApp
     public class Person
     {
         public string name = "Undefinite";
-        ///public int age;
+        
 
         public void Print()
         {
